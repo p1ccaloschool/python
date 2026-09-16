@@ -1,0 +1,21 @@
+html {
+    background-color: #000000;
+}
+
+h1 {
+    color:#fcfcfc;
+    text-align:center;
+}
+
+.btn_dumb {
+      display: block; 
+      margin-left: auto;
+      margin-right: auto;
+      background-color: #e20c0c;
+      color: #ded7d7;
+      padding: 14px 40px;
+      font-size: 16px;
+      border-radius: 20px;
+      border: 3px solid #ffffff;
+}
+
